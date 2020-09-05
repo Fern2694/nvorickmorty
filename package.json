@@ -1,0 +1,10 @@
+{
+  "name": "rick y morty",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@polymer/iron-ajax": "3.0.1",
+    "@polymer/paper-card": "^3.0.1",
+    "lit-element": "2.4.0"
+  }
+}
